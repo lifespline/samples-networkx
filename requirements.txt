@@ -1,0 +1,12 @@
+# docs
+sphinx
+furo
+
+# task runner
+invoke
+
+# notebook
+ipykernel
+
+# data viz
+networkx
