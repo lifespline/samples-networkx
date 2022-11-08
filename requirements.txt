@@ -11,4 +11,4 @@ ipykernel
 # data viz
 networkx
 matplotlib
-
+pygraphviz
