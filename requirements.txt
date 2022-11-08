@@ -12,3 +12,5 @@ ipykernel
 networkx
 matplotlib
 pygraphviz
+igraph
+cairocffi
